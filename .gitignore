@@ -1,0 +1,9 @@
+# Ignore the data directory
+data/
+
+# Ignore all .pkl files in the models directory
+models/*.pkl
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
